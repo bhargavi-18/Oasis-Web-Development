@@ -1,0 +1,46 @@
+body{ 
+    background-color: black;
+    
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 100px;
+    color:rgb(127, 18, 244);
+    
+}
+.navbarright{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color:rgb(127, 18, 244);
+}
+.A{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    padding-right: 80px;
+    padding-top: 15px;
+    text-decoration: dotted;
+    font-weight:lighter;
+    color:rgb(127, 18, 244);
+    font-size: larger;
+}
+.A:hover{
+    background-color: black;
+    text-decoration:underline;
+    text-decoration-color: white;
+    text-decoration-line: underline;
+}
+.Home{
+    display:flex;
+    flex-direction: row;
+    color:white;
+    
+}
+.line1{
+     font-weight: bolder;
+     padding-right: 80px;
+     padding-top: 200px;
+}

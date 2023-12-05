@@ -1,0 +1,125 @@
+.navbar{
+    justify-items: center;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    background-color:black;
+}   
+.navbar-right{
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 100px;
+    display: flex;
+    flex-direction: row;
+    color: white; 
+}
+.A{
+    padding: 15px;
+    align-items: center;
+    font-size: 25px;
+    color:violet;   
+}
+A:link{
+    text-decoration: dotted;
+}
+.A:hover{
+    background-color:rgb(110, 109, 109);
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;   
+}
+.home-right{
+    padding-right: 10vh;
+    padding-top: 5vh;
+}
+.home-left{
+    padding-left:50vh;
+    padding-top: 150px;
+    font-size: larger;
+}
+.s1{
+    font-family: 'Headland One', serif;
+    text-align: center;   
+}
+.logos{
+    padding-top:5px;
+}
+.s2{
+    font-family: 'Headland One', serif;
+    text-align: right;
+}
+.s3{
+    font-family: 'Headland One', serif;
+    text-align: center;
+}
+.s4{
+    font-family: 'Headland One', serif;
+    text-align: center;
+}
+.ed{
+    padding-top: 100px;   
+    font-size:x-large;
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;
+    padding-bottom: 100px;
+    padding-left: 200px;
+}
+.sk{
+    padding-top: 100px;   
+    font-size:x-large;
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;
+   padding-right: 400px;
+}
+.skills{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.skillsimg{
+    width:"1800px";
+    height:"1800px";
+    padding-top:5px;
+    padding-left: 150px;
+}
+.education{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.about{
+    display: flex;
+    flex-direction: row;   
+}
+.intro{
+    padding-top: 100px; 
+    font-size:x-large;
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;    
+}
+.contact{
+    font-size:x-large;
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;
+    padding-top: 210px;
+    padding-left: 100px;
+}
+.Contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.aboutimage{
+    width:"800px";
+    height:"700px";
+    padding-top: 70px;
+}
+.edimage{
+    width:"800px";
+    height:"600px";
+    padding-top:5px;
+    padding-right: 50px;
+}
